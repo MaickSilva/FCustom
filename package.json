@@ -1,0 +1,15 @@
+{
+  "name": "Fcustom",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gh-pages": "^1.1.0"
+  }
+}
