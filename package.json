@@ -1,14 +1,18 @@
 {
-  "name": "Fcustom",
+  "name": "fcustom",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "deploy": "gh-pages -d dist"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MaickSilva/fcustom.git"
+  },
   "keywords": [],
   "author": "",
-  "license": "MIT",
+  "license": "ISC",
   "devDependencies": {
     "gh-pages": "^1.1.0"
   }
